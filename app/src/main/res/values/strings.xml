@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RegistroUsuariosWeb</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="URL_VISTA">http://200.170.1.13/Webservice/obtenerUsuarios.php</string>
+
+    <string name="action_settings">Servicio gps</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_plantilla">PlantillaActivity</string>
+    <string name="title_activity_login">Inicio de sesion</string>
+    <string name="erroringreso">Usuario incorrecto</string>
+    <string name="notify_body">Bienvenido a registros Web</string>
+    <string name="notify_body_intent">Click si desea visualizar</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_activityw">Map</string>
+    <string name="title_activity_aa">Mapa</string>
+</resources>

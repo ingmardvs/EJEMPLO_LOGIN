@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/home"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_ingreso"
+            android:icon="@drawable/ingreso"
+            android:title="Ingreso" />
+        <item
+            android:id="@+id/nav_editar"
+            android:icon="@drawable/edit"
+            android:title="Editar" />
+        <item
+            android:id="@+id/nav_eliminar"
+            android:icon="@drawable/delete"
+            android:title="Eliminar" />
+        <item
+            android:id="@+id/nav_consultar"
+            android:icon="@drawable/consultar"
+            android:title="Consultar" />
+
+        <item
+            android:id="@+id/nav_vista"
+            android:icon="@drawable/consultar"
+            android:title="Consultar Vista" />
+
+        <item
+            android:id="@+id/nav_subir"
+            android:icon="@drawable/consultar"
+            android:title="Subir" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Salir" />
+        </menu>
+    </item>
+
+</menu>
